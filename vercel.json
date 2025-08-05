@@ -5,7 +5,7 @@
             "use": "@versel/python",
             "config": {
                 "maxLambdaSize": "15mb",
-                "runttime": "python3.13.5"
+                "runtime": "python3.13.5"
             }
         }
     ],
